@@ -1,5 +1,4 @@
 # Transcript-Generator
-Python version : 3.9
 
 Python version : 3.9
 
